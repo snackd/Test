@@ -1,0 +1,4 @@
+SELECT *
+FROM Persons
+ORDER BY Id
+LIMIT 2;
