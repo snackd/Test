@@ -24,3 +24,8 @@ Reference:[面試應對](https://hackmd.io/@zz8yeJXcQYOjqL6CsPNdlg/rkTChYSrC)
 ##### 20240611 (二)
 
 1. 排程自動化建資料夾：createFolder.vbs
+
+##### 20240612 (三)
+
+1. 撰寫信箱爬蟲(排程)：抓財政部 turnkey Email 整理錯誤發票
+
